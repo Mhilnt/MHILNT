@@ -8,6 +8,8 @@
 
 <h2> Support Me On</h2>
 <p>
-<a href="https://www.instagram.com/Mhilnt_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sanz" height="30" width="40" /></a>
+
+<!--<a href="https://www.instagram.com/YourInsta/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sanz" height="30" width="40" /></a>-->
+
 <a href="https://www.youtube.com/channel/UCdRB04Q2-NtlSAiBxV5AVHg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Sanz" height="30" width="40" /></a>
 <a href="https://github.com/Mhilnt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Sanz" height="30" widht="40" /></a> 
