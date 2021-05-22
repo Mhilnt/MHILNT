@@ -2,8 +2,6 @@
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=MHILNT&layout=compact&theme=highcontrast)
 <p align="center">
 <a href="https://github.com/MHILNT/followers"><img title="Followers" src="https://img.shields.io/github/followers/MHILNT?color=blue&style=flat-square"></a>
-</a>
-<a href="https://github.com/MHILNT"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MHILNT-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 </p>
