@@ -4,7 +4,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mhilnt&show_icons=true&hide_border=true&hide=issues" alt="🦉Mhilnt github stats">
 </details>
 
-<img align="bottom" src=![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhilnt&theme=default)
+<img align="right" src=![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhilnt&theme=default)
 
 
 <!-- SOURCE CODE : https://github.com/Sxp-ID/Sxp-ID -->
