@@ -6,7 +6,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHILNT&theme=default)
 
-document.getElementById("myDiv").style.bottom = "10px";
 
 
 <!-- SOURCE CODE : https://github.com/Sxp-ID/Sxp-ID -->
