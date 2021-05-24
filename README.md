@@ -1,6 +1,6 @@
-<## Hi there, I'm Yoga Sakti <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<## Hi there, I'm MHILNT <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<summary><b>My Github Stats</b></summary>
+<summary><b></b></summary>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mhilnt&show_icons=true&hide_border=true&hide=issues" alt="🦉Mhilnt's github stats">
 </details>
 
