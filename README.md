@@ -4,7 +4,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mhilnt&show_icons=true&hide_border=true&hide=issues" alt="🦉Mhilnt github stats">
 </details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHILNT&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHILNT&show_icons=true&hide_border=true&hide=issues&theme=default)
 
 
 
