@@ -14,5 +14,4 @@
 <p>
 
 <a href="https://www.facebook.com/mhilnt.mhlnt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mhilnt" height="30" width="40" /></a>
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Mhilnt" height="30" width="40" /></a>
 <a href="https://github.com/Mhilnt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Mhilnt" height="30" widht="40" /></a> 
